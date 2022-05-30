@@ -17,6 +17,12 @@ POST /payments
   "note" : "Paying rent"
 }
 ```
+
+## C2 Diagram
+
+![Screenshot 2022-05-30 at 5 55 44 PM](https://user-images.githubusercontent.com/10969680/170992043-1bc6cc40-1a03-45f7-8389-49f370741492.png)
+
+
 ## Build
 
 To build you can use either Gradle or Maven
